@@ -1,7 +1,7 @@
 <!-- 🔥 Premium Banner -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAd/anime-hacking.gif" width="820"/>
+  <img src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAd/anime-hacking.gif" width="820" height="465"/>
 </p>
 
 <!-- ⚡ Typing Animation (Subtle) -->
