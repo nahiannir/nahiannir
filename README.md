@@ -7,7 +7,7 @@
 <!-- ⚡ Typing Animation (Subtle) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+Enthusiast;Building+Skills+Daily;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+Enthusiast;Building+Skills+Daily" />
 </p>
 
 
