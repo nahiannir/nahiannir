@@ -77,18 +77,6 @@ Focused on building a career in **Data Science & Artificial Intelligence**
 
 ---
 
-## 📌 Featured Projects
-
-* 🔹 Password Generator
-* 🔹 Smart Guessing Game
-* 🔹 Students Performance Analytics
-
-
----
-
-<p align="center">
-  ⭐ Building in public. Learning every day.
-</p>
 
 
 <p align="center">
